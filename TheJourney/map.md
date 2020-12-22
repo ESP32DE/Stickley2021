@@ -1,7 +1,7 @@
 # Hints / Notes
 A: What is this?
 
-B: Whats should it be to me?
+B: What should it be to me?
 
 C: How i can do this?
 
