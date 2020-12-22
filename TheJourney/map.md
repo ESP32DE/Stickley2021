@@ -1,13 +1,13 @@
 # Hints / Notes
-A. What is this?
+A: What is this?
 
-B. Whats should it be to me?
+B: Whats should it be to me?
 
-C. How i can do this?
+C: How i can do this?
 
-D. Do you have more Info?
+D: Do you have more Info?
 
-E. Where to go?
+E: Where to go?
 
 # MAP
 <to do: upload project>
