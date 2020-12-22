@@ -1,4 +1,5 @@
-#<to do: upload project>
+# Hints / Notes
+<to do: upload project>
 <to do: Germany: >
 <to do: Italy: >
 <to do: Austria: >
