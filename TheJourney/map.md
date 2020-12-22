@@ -18,7 +18,6 @@
 <to do: US SC: >
 <to do: US TN: >
 <to do: List continuation>
-<to do: https://esp32.com/viewtopic.php?f=17&t=17936>
 <to do:
     Publication
      Shematic
@@ -29,5 +28,6 @@
      Task
 greetings fly out to friends all over the globe    
     >
-    
+<to do: Showcase / About>  
+<to do: https://esp32.com/viewtopic.php?f=17&t=17936>    
   
