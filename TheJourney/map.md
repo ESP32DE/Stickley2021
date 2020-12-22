@@ -20,6 +20,14 @@
 <to do: List continuation>
 <to do: https://esp32.com/viewtopic.php?f=17&t=17936>
 <to do:
-    PC
+    Publication
+     Shematic
+     PCB
+     Datasheet
+     Challenge
+     Problem
+     Task
+greetings fly out to friends all over the globe    
     >
+    
   
