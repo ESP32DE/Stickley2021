@@ -37,6 +37,7 @@ E: Where to go?
      Challenge
      Problem
      Task
+     eMbedded World 15 - 17 March 2022 // Nuremberg, Germany https://www.embedded-world.de/en
 greetings fly out to friends all over the globe    
     >
 <to do: Showcase / About>  
